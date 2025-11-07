@@ -1,0 +1,70 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\COURS_25_26_UNITY\\CoursCurve\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{26C9A1D5-2331-7922-C186-94F4268D97C8}|Assembly-CSharp.csproj|D:\\COURS_25_26_UNITY\\CoursCurve\\assets\\courscurve\\scripts\\sinusprojectile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{26C9A1D5-2331-7922-C186-94F4268D97C8}|Assembly-CSharp.csproj|solutionrelative:assets\\courscurve\\scripts\\sinusprojectile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26C9A1D5-2331-7922-C186-94F4268D97C8}|Assembly-CSharp.csproj|d:\\cours_25_26_unity\\courscurve\\assets\\courscurve\\scripts\\spring.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{26C9A1D5-2331-7922-C186-94F4268D97C8}|Assembly-CSharp.csproj|solutionrelative:assets\\courscurve\\scripts\\spring.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26C9A1D5-2331-7922-C186-94F4268D97C8}|Assembly-CSharp.csproj|D:\\COURS_25_26_UNITY\\CoursCurve\\assets\\courscurve\\scripts\\cameracurve.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{26C9A1D5-2331-7922-C186-94F4268D97C8}|Assembly-CSharp.csproj|solutionrelative:assets\\courscurve\\scripts\\cameracurve.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Spring.cs",
+              "DocumentMoniker": "D:\\COURS_25_26_UNITY\\CoursCurve\\Assets\\CoursCurve\\Scripts\\Spring.cs",
+              "RelativeDocumentMoniker": "Assets\\CoursCurve\\Scripts\\Spring.cs",
+              "ToolTip": "D:\\COURS_25_26_UNITY\\CoursCurve\\Assets\\CoursCurve\\Scripts\\Spring.cs",
+              "RelativeToolTip": "Assets\\CoursCurve\\Scripts\\Spring.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-07T08:54:09.709Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "SinusProjectile.cs",
+              "DocumentMoniker": "D:\\COURS_25_26_UNITY\\CoursCurve\\Assets\\CoursCurve\\Scripts\\SinusProjectile.cs",
+              "RelativeDocumentMoniker": "Assets\\CoursCurve\\Scripts\\SinusProjectile.cs",
+              "ToolTip": "D:\\COURS_25_26_UNITY\\CoursCurve\\Assets\\CoursCurve\\Scripts\\SinusProjectile.cs",
+              "RelativeToolTip": "Assets\\CoursCurve\\Scripts\\SinusProjectile.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAACYAAABVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-07T08:36:09.035Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CameraCurve.cs",
+              "DocumentMoniker": "D:\\COURS_25_26_UNITY\\CoursCurve\\Assets\\CoursCurve\\Scripts\\CameraCurve.cs",
+              "RelativeDocumentMoniker": "Assets\\CoursCurve\\Scripts\\CameraCurve.cs",
+              "ToolTip": "D:\\COURS_25_26_UNITY\\CoursCurve\\Assets\\CoursCurve\\Scripts\\CameraCurve.cs",
+              "RelativeToolTip": "Assets\\CoursCurve\\Scripts\\CameraCurve.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAACoAAABDAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-07T08:12:48.923Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
